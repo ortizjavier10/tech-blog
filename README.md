@@ -25,7 +25,7 @@ npm install --save mysql2
 
 ## Usage
 1. The app can be accessed at the link below:
-https://aqueous-headland-19391.herokuapp.com/
+https://frozen-dawn-11998.herokuapp.com/
 
 
 ## Sample
